@@ -1,3 +1,8 @@
+Twitter-like Emoji Picker in React - Twemoji with SVG Sprites
+
+This code is explained on Medium Blog and you can find it here https://medium.com/iamdeepinder/creating-a-twitter-like-emoji-picker-in-react-twemoji-with-svg-sprites-beb446a35ab8?sk=2cde280ea03edeeaca72041b97fca6ec
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
